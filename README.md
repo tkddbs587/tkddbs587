@@ -2,8 +2,11 @@
   <h2>
     Hi I'm Front-End Developer HOON 🧑🏻‍💻
   </h2>
+  <p>
+    “I’m a front-end developer with a passion for effective communication and collaboration. I strive to bridge the gap between technical teams and clients to create seamless digital experiences.”
+  </p>
 
-  <h3>TECH STACK</h3>
+  <h3>TECH STACK 🪄</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -14,7 +17,7 @@
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" />
     <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <br/>  
-  <h3>Contact</h3>
+  <h3>Contact 👌🏻</h3>
   <a href="dudrn587@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/dudrn587@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
