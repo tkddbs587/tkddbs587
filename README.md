@@ -3,7 +3,7 @@
     Hi I'm Front-End Developer HOON 🧑🏻‍💻
   </h2>
   <p>
-    “I’m a front-end developer with a passion for effective communication and collaboration. I strive to bridge the gap between technical teams and clients to create seamless digital experiences.”
+   “I’m a front-end developer skilled in building user-friendly interfaces and effective communication.”
   </p>
 
   <h3>TECH STACK 🪄</h3>
