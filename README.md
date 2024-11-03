@@ -17,6 +17,14 @@
     <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white" />
     <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
   <br/>  
+
+  <h3>Tools ⚒️</h3>
+    <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/jira-CCE0FF.svg?style=for-the-badge&logo=jira&logoColor=357de8" />
+    <img src="https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=36C5F0" />
+  <br/>  
+    
   <h3>Contact 👌🏻</h3>
   <a href="dudrn587@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/dudrn587@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
